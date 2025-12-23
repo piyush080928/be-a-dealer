@@ -2,6 +2,8 @@
 
 A responsive **Buy & Sell web application** built with **React** and **Tailwind CSS**.  
 This project includes advanced React features like routing, form validation, notifications, and animations.
+I know i made some mistakes in this project . like sidebar , and the description on the card image . But i will fix it very soon .
+
 
 CLICK TO VISIT https://be-a-dealer.vercel.app/
 
