@@ -3,6 +3,8 @@
 A responsive **Buy & Sell web application** built with **React** and **Tailwind CSS**.  
 This project includes advanced React features like routing, form validation, notifications, and animations.
 
+CLICK TO VISIT https://be-a-dealer.vercel.app/
+
 ---
 
 ## Features
@@ -30,7 +32,7 @@ This project includes advanced React features like routing, form validation, not
 
 ---
 
-CLICK TO VISIT https://be-a-dealer.vercel.app/
+
 
 ## Installation
 
